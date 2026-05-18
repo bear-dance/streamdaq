@@ -39,6 +39,7 @@ dependencies = [
   "StrEnum~=0.4.15",
   "datasketch~=1.10.0",
   "datasketches~=5.2.0",
+  "uvicorn>=0.44.0",
 ]
 
 [project.urls]
